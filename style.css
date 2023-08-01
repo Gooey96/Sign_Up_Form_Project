@@ -19,3 +19,7 @@
   color: white;
   border: 1px solid black; /*For Debugging*/
 }
+
+.credit a {
+  color: white;
+}
