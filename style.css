@@ -13,5 +13,9 @@
 .first {
   width: 30vw;
   height: 100vh;
+  background-image: url(halie-west-smallest-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
   border: 1px solid black; /*For Debugging*/
 }
