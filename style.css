@@ -24,6 +24,13 @@
   border: 1px solid black; /*For Debugging*/
 }
 
+.odin {
+  background-color: rgba(0,0,0,0.4);
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+
 .credit a {
   color: white;
 }
