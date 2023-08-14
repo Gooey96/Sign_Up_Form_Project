@@ -44,6 +44,11 @@
   width: 18%;
 }
 
+.font {
+  font-family: Norse;
+  font-size: 60px;
+}
+
 .credit a {
   color: white;
 }
