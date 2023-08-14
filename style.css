@@ -6,6 +6,11 @@
   margin: 0;
 }
 
+@font-face {
+  font-family: Norse;
+  src: url(Norse-Bold.otf);
+}
+
 .container {
   display: flex;
 }
