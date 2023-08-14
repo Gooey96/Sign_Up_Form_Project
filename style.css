@@ -30,6 +30,14 @@
   width: 100%;
   text-align: center;
   margin-top: 145px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.odin img {
+  height: 100%;
+  width: 100px;
 }
 
 .credit a {
