@@ -17,6 +17,10 @@
   background-position: center;
   background-size: cover;
   color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   border: 1px solid black; /*For Debugging*/
 }
 
