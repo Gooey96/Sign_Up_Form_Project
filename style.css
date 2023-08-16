@@ -58,7 +58,7 @@
 
 .second {
   border: 1px solid black; /* for debugging */
-  width: auto;
+  width: 65vw;
   height: 100vh;
   background-color: #F8FBF8;
   display: flex;
