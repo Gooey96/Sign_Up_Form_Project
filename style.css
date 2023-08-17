@@ -71,3 +71,8 @@
 form {
   height: 30%;
 }
+
+.jar,
+form {
+  padding-left: 40px;
+}
