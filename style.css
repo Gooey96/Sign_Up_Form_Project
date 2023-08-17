@@ -64,16 +64,3 @@
   display: flex;
   flex-direction: column;
 }
-
-.jar, form {
-  padding-left: 30px;
-}
-
-.jar {
-  flex: 1;
-  border: 1px solid black; /* for debugging */
-}
-
-form {
-  height: 200px;
-}
