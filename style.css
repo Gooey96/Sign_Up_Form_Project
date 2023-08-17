@@ -67,3 +67,7 @@
   border: 1px solid black; /* for debugging */
   height: 35%;
 }
+
+form {
+  height: 30%;
+}
