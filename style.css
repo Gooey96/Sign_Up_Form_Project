@@ -76,6 +76,12 @@
   padding-right: 229px;
 }
 
+.bottom {
+  padding-top: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
 form {
   height: 30%;
 }
