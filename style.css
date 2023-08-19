@@ -82,6 +82,19 @@
   font-weight: 400;
 }
 
+.btn {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #596D48;
+  color: white;
+  margin-bottom: 30px;
+  min-width: 210px;
+  min-height: 40px;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.2), 0 3px 5px 0 rgba(0,0,0,0.19);;
+}
+
 form {
   height: 30%;
 }
