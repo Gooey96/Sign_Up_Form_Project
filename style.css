@@ -68,11 +68,19 @@
   background-color: #F8FBF8;
 }
 
+.upper {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  padding-top: 80px;
+  padding-right: 229px;
+}
+
 form {
   height: 30%;
 }
 
 .jar,
 form {
-  padding-left: 40px;
+  padding-left: 70px;
 }
