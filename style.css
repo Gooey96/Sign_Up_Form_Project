@@ -62,13 +62,11 @@ a {
 }
 
 .second {
-  border: 1px solid black; /* for debugging */
   width: 65vw;
   height: 100vh;
 }
 
 .jar {
-  border: 1px solid black; /* for debugging */
   height: 35%;
   background-color: #F8FBF8;
 }
