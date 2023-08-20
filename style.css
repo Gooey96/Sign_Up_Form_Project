@@ -111,6 +111,10 @@ a {
   box-shadow: none;
 }
 
+.log {
+  font-size: large;
+}
+
 .log a {
   font-weight: bold;
   color: #006f8a;
