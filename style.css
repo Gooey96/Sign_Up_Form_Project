@@ -11,6 +11,10 @@
   src: url(Norse-Bold.otf);
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   display: flex;
 }
