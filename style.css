@@ -103,6 +103,7 @@
 .btn:active {
   background-color: #04AA6D;
   transform: translateY(3px);
+  box-shadow: none;
 }
 
 form {
