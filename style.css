@@ -120,6 +120,7 @@ a {
 
 form {
   height: 30%;
+  border: 1.8px solid rgba(128,128,128,0.1);
 }
 
 .jar,
