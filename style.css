@@ -124,6 +124,12 @@ form {
   padding: 15px 0;
 }
 
+form p {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
 .jar,
 form {
   padding-left: 70px;
