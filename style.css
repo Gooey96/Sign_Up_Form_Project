@@ -67,15 +67,15 @@ a {
 }
 
 .jar {
-  height: 35%;
+  height: 30%;
   background-color: #F8FBF8;
 }
 
 .upper {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bolder;
-  font-size: larger;
-  padding-top: 80px;
+  font-size: 20px;
+  padding-top: 50px;
   padding-right: 229px;
 }
 
@@ -119,9 +119,10 @@ a {
 }
 
 form {
-  height: 30%;
+  height: 40%;
   border: 1.8px solid rgba(128,128,128,0.1);
   padding: 15px 0;
+  padding-right: 240px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -136,10 +137,24 @@ input {
   display: block;
 }
 
+label {
+  font-weight: bold;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+}
+
 .form-container {
   border: 1px solid black; /* for debugging */
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
+}
+
+.form-container div {
+  flex: 1;
 }
 
 .jar,
