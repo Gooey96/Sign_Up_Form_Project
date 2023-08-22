@@ -131,6 +131,11 @@ form p {
   margin-bottom: 10px;
 }
 
+label,
+input {
+  display: block;
+}
+
 .form-container {
   border: 1px solid black; /* for debugging */
   display: flex;
