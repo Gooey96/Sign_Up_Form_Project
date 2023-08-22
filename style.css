@@ -131,6 +131,12 @@ form p {
   margin-bottom: 10px;
 }
 
+.form-container {
+  border: 1px solid black; /* for debugging */
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .jar,
 form {
   padding-left: 70px;
