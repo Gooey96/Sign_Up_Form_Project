@@ -144,6 +144,8 @@ label {
 input {
   width: 233px;
   height: 30px;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 5px;
 }
 
 .form-container {
