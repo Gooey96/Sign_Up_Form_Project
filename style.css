@@ -129,7 +129,7 @@ form {
 form p {
   font-weight: bold;
   font-size: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
 }
 
 label,
@@ -142,7 +142,7 @@ label {
 }
 
 input {
-  width: 200px;
+  width: 233px;
   height: 30px;
 }
 
