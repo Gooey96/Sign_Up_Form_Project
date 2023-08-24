@@ -149,6 +149,14 @@ input {
   border: 1px solid rgba(0,0,0,0.2);
   border-radius: 5px;
   font-size: 18px;
+  outline: none;
+}
+
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=tel]:focus {
+  border: 1px solid blue;
+  box-shadow: rgba(0, 0, 0, 0.2) 2.4px 2.4px 3.2px;
 }
 
 .form-container {
